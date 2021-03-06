@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Downloads on Rostislav</title>
-    <link>http://www.example.com/download/</link>
-    <description>Recent content in Downloads on Rostislav</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 09 Feb 2021 05:38:19 +0300</lastBuildDate><atom:link href="http://www.example.com/download/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Download Links:</title>
-      <link>http://www.example.com/download/cv/</link>
-      <pubDate>Tue, 09 Feb 2021 05:38:19 +0300</pubDate>
-      
-      <guid>http://www.example.com/download/cv/</guid>
-      <description>CV in English
-CV in Russian</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Downloads on Rostislav</title><link>http://www.example.com/download/</link><description>Recent content in Downloads on Rostislav</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Feb 2021 05:38:19 +0300</lastBuildDate><atom:link href="http://www.example.com/download/index.xml" rel="self" type="application/rss+xml"/><item><title>Download Links:</title><link>http://www.example.com/download/cv/</link><pubDate>Tue, 09 Feb 2021 05:38:19 +0300</pubDate><guid>http://www.example.com/download/cv/</guid><description>CV in English
+CV in Russian</description></item></channel></rss>
